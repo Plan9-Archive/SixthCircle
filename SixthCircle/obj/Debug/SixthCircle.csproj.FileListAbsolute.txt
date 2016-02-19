@@ -1,0 +1,10 @@
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\bin\Debug\SixthCircle.exe.config
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\obj\Debug\SixthCircle.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\bin\Debug\SixthCircle.exe
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\bin\Debug\SixthCircle.pdb
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\obj\Debug\SixthCircle.exe
+C:\Dropbox\Workspace\SixthCircle\SixthCircle\obj\Debug\SixthCircle.pdb
+F:\Dropbox\Workspace\SixthCircle\SixthCircle\bin\Debug\SixthCircle.exe.config
+F:\Dropbox\Workspace\SixthCircle\SixthCircle\obj\Debug\SixthCircle.exe
+F:\Dropbox\Workspace\SixthCircle\SixthCircle\obj\Debug\SixthCircle.pdb
+C:\Users\luis\Dropbox\Workspace\SixthCircle\SixthCircle\bin\Debug\SixthCircle.exe.config
